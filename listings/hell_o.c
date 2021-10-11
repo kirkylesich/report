@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include "stdio.h"
+
 
 int main(){
-    puts("Hello, Donald and Linus"); // Комментарий на русском
-    return 0;
+	printf("Hello world!");
+	return 0;
 }
